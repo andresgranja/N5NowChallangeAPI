@@ -1,4 +1,4 @@
-# YourSolution API
+# N5NowChallangeAPI
 
 This repository contains the source code for the N5NowChallangeAPI. The API is built with ASP.NET Core, adhering to the principles of Clean Architecture and SOLID principles.
 
